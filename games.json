@@ -3,5 +3,45 @@
         "name": "Wheelie Party",
         "slug": "wheelie-party",
         "image": "/cache/data/image/game/wheelie-party/wheelie-party-game-m186x186.webp"
+    },
+    {
+        "name": "Tap Drift",
+        "slug": "tap-drift",
+        "image": "/cache/data/image/game/tap-drift/tap-drift-512x512--m186x186.webp"
+    },
+    {
+        "name": "Blocky Rider",
+        "slug": "blocky-rider",
+        "image": "/cache/data/image/game/blocky-rider/blocky-rider-512x512--m186x186.webp"
+    },
+    {
+        "name": "Ramp Xtreme",
+        "slug": "ramp-xtreme",
+        "image": "/cache/data/image/game/ramp-xtreme/ramp-xtreme-512x512--m186x186.webp"
+    },
+    {
+        "name": "Escape Drive",
+        "slug": "escape-drive",
+        "image": "/cache/data/image/game/escape-drive/escape-drive-512x512--m186x186.webp"
+    },
+    {
+        "name": "Mad Racers",
+        "slug": "mad-racers",
+        "image": "/cache/data/image/game/mad-racers/mad-racers-512x512--m186x186.webp"
+    },
+    {
+        "name": "Street Wheelie",
+        "slug": "street-wheelie",
+        "image": "/cache/data/image/game/street-wheelie/street-wheelie-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Fire Flush",
+        "slug": "fire-flush",
+        "image": "/cache/data/image/game/fire-flush/fire-flush-1200x1200-m186x186.webp"
+    },
+    {
+        "name": "Subway Moto",
+        "slug": "subway-moto",
+        "image": "/cache/data/image/game/subway-moto/subway-moto-512x512-m186x186.webp"
     }
 ]
